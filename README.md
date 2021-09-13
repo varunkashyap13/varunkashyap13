@@ -7,7 +7,7 @@
 - 💬 Reach out if you want to talk ideas or collaborate!
 - 😄 Pronouns: He/Him/His
 - 🏋️ Workout (almost)everyday!
-- ⚡ Fun fact: I speak 4 languages (English, Spanish, Hindi, Punjabi)
+- ⚡ Fun fact: I used to be a professional Indian percussionist
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
