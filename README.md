@@ -3,7 +3,6 @@
 ### I'm a Developer, Music Lover, Entrepreneur, and Aspiring Product Manager!
 - ✍ You can learn more about me here [website]
 - 🔭 I’m currently working on a social events app
-<!-- - 🌱 I’m currently learning -->
 - 💬 Reach out if you want to talk ideas or collaborate!
 - 😄 Pronouns: He/Him/His
 - 🏋️ Workout everyday!
