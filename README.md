@@ -2,11 +2,11 @@
 
 ### I'm a Developer, Music Lover, Entrepreneur, and Aspiring Product Manager!
 - ✍ You can learn more about me here [website]
-- 🔭 I’m currently working on a personal finance education application
-- 🌱 I’m currently learning Spring, Ruby on Rails, AWS
+- 🔭 I’m currently working on a social events app
+<!-- - 🌱 I’m currently learning -->
 - 💬 Reach out if you want to talk ideas or collaborate!
 - 😄 Pronouns: He/Him/His
-- 🏋️ Workout (almost)everyday!
+- 🏋️ Workout everyday!
 - ⚡ Fun fact: I used to be a professional Indian percussionist
 
 ### Languages and Tools:
