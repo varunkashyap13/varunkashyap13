@@ -1,6 +1,6 @@
 ## Hello World, I'm Varun  👋
 
-### I'm a Developer, Music Lover, Entrepreneur, and Aspiring Product Manager!
+### I'm a Developer, Music Lover, and Entrepreneur!
 - ✍ You can learn more about me here [website]
 - 🔭 I’m currently working on a social events app
 - 💬 Reach out if you want to talk ideas or collaborate!
